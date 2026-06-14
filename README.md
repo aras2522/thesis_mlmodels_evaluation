@@ -1,0 +1,1 @@
+Run code on GPU to see the simulated dataset, ml models build, testing and evaluation outputs. You will find the classification and regression evaluation results seeing how well the stopband can be predicted into the right frequency based off given metasurface dimensions.
